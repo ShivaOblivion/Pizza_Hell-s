@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace TarodevController
+namespace DevController
 {
-    [CreateAssetMenu]
+    [CreateAssetMenu(fileName = "playerDATA",menuName = "Pizza_hell_s")]
     public class ScriptableStats : ScriptableObject
     {
         [Header("LAYERS")] [Tooltip("Set this to the layer your player is on")]
