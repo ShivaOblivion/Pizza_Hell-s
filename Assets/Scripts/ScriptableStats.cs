@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DevController
+namespace ShivaController
 {
     [CreateAssetMenu(fileName = "playerDATA",menuName = "Pizza_hell_s")]
     public class ScriptableStats : ScriptableObject
